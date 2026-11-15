@@ -1,5 +1,5 @@
 import React, { useState, useMemo, useEffect, useRef } from 'react';
-import ConstellationGrid from '@/components/ui/constellation-grid';
+import ConstellationGrid from './components/ui/constellation-grid';
 import {
   Users, BookOpen, Zap, ArrowRight, Search, Bell, MessageCircle,
   User, Settings, LogOut, Plus, Star, ChevronRight, Check,
